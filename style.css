@@ -1,1 +1,21 @@
-inhoud
+body
+{
+    background-color: beige;
+}
+
+h1
+{
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 56px;
+}
+
+.hond1
+{
+    width: 200px;
+}
+
+.hond2
+{
+    width: 400px;
+}
